@@ -1,0 +1,24 @@
+#form--main{
+    display: flex;
+    flex-wrap: wrap;
+    border:1px soild black;
+    justify-content: center;
+    gap:1rem;
+    padding:2rem 0;
+}
+.ipt{
+   padding:1rem;
+   width:25rem;
+   border-radius: 0.5rem;
+   border: 1.8px solid rgb(175, 172, 172);
+   font-size: 1rem;
+}
+.btn{
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  border:none;
+  border-radius: 0.5rem;
+  color:#ffffff;
+  font-size:1.5rem;
+  width:40rem;
+  cursor:pointer;
+}

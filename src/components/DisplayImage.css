@@ -1,0 +1,12 @@
+.img--display{
+    padding:-1rem 0;
+    margin:-01rem auto;
+    /* width:55rem; */
+    height:fit-content;
+    /* border:1px solid black; */
+    text-align: center;
+}
+#disImg{
+    width: 50rem;
+    height: 30rem;
+}
